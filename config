@@ -20,7 +20,7 @@
          "ServerIP":"172.233.25.4", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": ""http://mlfree.shop:5000/checkUser"
+         "CheckUser": "https://checkuser.lmhost.win/2826844e"
       }
       
   ],

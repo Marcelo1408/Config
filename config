@@ -1,6 +1,6 @@
 {
   "Version":"1",
-  "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
+  "Update":"://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"",
   "UpdateApk": "",

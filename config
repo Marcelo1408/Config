@@ -1,6 +1,6 @@
 {
   "Version":"1",
-  "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
+  "Update":"https://github.com/Marcelo1408/Config/main/config",
   "UdpPort":"7300",
   "Sms":"",
   "UpdateApk": "",
@@ -17,7 +17,7 @@
          "USER":"",
          "PASS":"",
          "SSLPort":"443",
-         "ServerIP":"mlfree.shop", 
+         "ServerIP":"172.233.25.4", 
          "ServerPort":"80",
          "TYPE":"premium",
          "CheckUser": ""http://mlfree.shop:5000/checkUser"
@@ -62,7 +62,7 @@
          "Info":"Proxy",
          "Name":"VIVO WSS 1",
          "Payload":"[instant_split][lf][rotate=PATCH;ACL;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;ORDERPATCH;SEARCH] / HTTP/1.1[lf]Host: mlfree.shop[lf]Connection: Upgrade[lf]Upgrade: Websocket[crlf]Connection: Keep-Alive[lf][lf]",
-         "ProxyIP":"45.140.193.159",
+         "ProxyIP":"172.233.25.4",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -76,7 +76,7 @@
          "Info":"Proxy",
          "Name":"VIVO WSS 2",
          "Payload":"ACL /[raw]",
-         "ProxyIP":"45.140.193.159",
+         "ProxyIP":"172.233.25.4",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -90,7 +90,7 @@
          "Info":"Proxy",
          "Name":"VIVO WSS 3",
          "Payload":"[delay_split][lf][rotate=PATCH;ACL;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;ORDERPATCH;SEARCH] wss://assine.vivo.com.br/cdn-cgi/trace/ HTTP/1.1[crlf]Host: assine.vivo.com.br[crlf][rotate=portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com][crlf][crlf][crlf]",
-         "ProxyIP":"45.140.193.159",
+         "ProxyIP":"172.233.25.4",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""
@@ -120,7 +120,7 @@
          "Info":"Proxy",
          "Name":"TIM",
          "Payload":""PATCH / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-         "ProxyIP":"mlfree.shop",
+         "ProxyIP":"172.233.25.4",
          "ProxyPort":"80",
          "SNI":"example.com",
          "TlsIP":""
@@ -134,7 +134,7 @@
          "Info":"Proxy",
          "Name":"TIM 1",
          "Payload":""PATCH / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-         "ProxyIP":"example.com",
+         "ProxyIP":"172.233.25.4",
          "ProxyPort":"80",
          "SNI":"example.com",
          "TlsIP":""
@@ -148,7 +148,7 @@
          "Info":"Proxy",
          "Name":"TIM DIRECT",
          "Payload":"HTTP/1.1 200 OK [crlf][crlf][crlf]",
-         "ProxyIP":"[app_host]",
+         "ProxyIP":"172.233.25.4 ",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":""

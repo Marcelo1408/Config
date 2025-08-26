@@ -39,20 +39,7 @@
       }
   ],
 "Networks": [
-        {
-         "Name": "CONFIGURAÇÕES VIVO",
-         "ColorName": "#ffffff",
-         "Description": "SELECIONE UMA CONFIGURAÇÃO",
-         "ColorDescription": "#ffffff",
-         "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754314819/lmnet_vdctiy.png",
-         "Payload":"",
-         "ProxyIP":"172.233.25.4",
-         "ProxyPort":"",
-         "SNI":"",
-         "TlsIP":"",
-         "Color": "#161726",
-         "Info":""
-        },
+        
         {
          "Name": "VIVO WSS 1",
          "ColorName": "#ffffff",

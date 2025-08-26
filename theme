@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "Update": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/theme",
   "AppName": "NETFREE",
   "ImgFundo": "https://i.ibb.co/qrDwjrr/fundo.jpg",
@@ -10,9 +10,9 @@
   "ImgCheck": "https://telegra.ph/file/12ab1b8c54f671f72bc73.png",
   'ImgUser': "https://telegra.ph/file/51cfbf308fa6a293d6f7b.png",
   'ImgPass': "https://telegra.ph/file/0aae4b5cc75034f04611d.png",
-  "ColorOne": "#6aff00",
+  "ColorOne": "#91f540",
   "ColorTwo": "#6aff00",
-  "ColorStarter": "#6aff00",
+  "ColorStarter": "#4a807b",
   "ColorDialogs": "#04948f",
   "ColorButtons": "#49015e"
 }

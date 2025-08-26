@@ -1,5 +1,5 @@
 {
-  "Version":"2",
+  "Version":"1",
   "Update":"http://raw.githubusercontent.com/Marcelo1408/Config/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",

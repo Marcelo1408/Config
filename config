@@ -1,10 +1,10 @@
 {
-  "Version":"1",
+  "Version":"0",
   "Update":"http://raw.githubusercontent.com/Marcelo1408/Config/main/config",
   "UdpPort":"7300",
-  "Sms":"",
+  "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
   "UpdateApk": "",
-  "Contato":"https://wa.me/5519999797310",
+  "Contato":"https://wa.me/5547991332359",
   "Site":"https://www.speedtest.net",
   "Servers": [
        {
@@ -14,10 +14,10 @@
          "ColorDescription": "#ffffff",
          "TYPE":"premium",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "ServerIP":"mlfree.shop",
+         "ServerIP":"akamai.lmhost.win",
          "ServerPort":"22",
          "SSLPort":"443",
-         "CheckUser": "https://checkuser.lmhost.win/2826844e",
+         "CheckUser": "https://checkuser.lmhost.win/3e9ff2de",
          "USER":"",
          "PASS":"",
          "Color": "#161726"
@@ -29,7 +29,7 @@
          "ColorDescription": "#ffffff",
          "TYPE":"premium",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "ServerIP":"172.233.25.4",
+         "ServerIP":"54.233.45.252",
          "ServerPort":"80",
          "SSLPort":"443",
          "CheckUser": "https://checkuser.lmhost.win/3e9ff2de",
@@ -39,7 +39,20 @@
       }
   ],
 "Networks": [
-        
+        {
+         "Name": "CONFIGURAÇÕES VIVO",
+         "ColorName": "#ffffff",
+         "Description": "SELECIONE UMA CONFIGURAÇÃO",
+         "ColorDescription": "#ffffff",
+         "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754314819/lmnet_vdctiy.png",
+         "Payload":"",
+         "ProxyIP":"",
+         "ProxyPort":"",
+         "SNI":"",
+         "TlsIP":"",
+         "Color": "#161726",
+         "Info":""
+        },
         {
          "Name": "VIVO WSS 1",
          "ColorName": "#ffffff",
@@ -47,7 +60,7 @@
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"MERGE google.com HTTP/1.0[crlf]Host: google.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"172.233.25.4",
+         "ProxyIP":"",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
@@ -61,7 +74,7 @@
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"HTTP/1.1 [lf]Host: [rotate=google.com;youtube.com][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"172.233.25.4",
+         "ProxyIP":"",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
@@ -75,12 +88,12 @@
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"HTTP/1.1 [crlf]Host:youtube.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"172.233.25.4",
+         "ProxyIP":"",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Dir"ect"
+         "Info":"Direct"
         },
         {
          "Name": "VIVO WSS 4",
@@ -89,7 +102,7 @@
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"[delay_split]ACL 127.0.0.1:80[lf] HTTP/1.1 [lf]Host: [rotate=google.com;youtube.com][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"172.233.25.4",
+         "ProxyIP":"",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
@@ -103,7 +116,7 @@
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"[delay_split]ACL / HTTP/1.1[crlf]Host: bughost.lmhost.workers.dev[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"172.233.25.4",
+         "ProxyIP":"",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
@@ -117,7 +130,7 @@
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754314187/vivo-tim_lvaikj.png",
          "Payload":"[split]HTTP/ 2 HTTP/1.1 CONNECT HTTP/1.1[lf][lf] [lf]#[instant_split]HTTP/ 2 HTTP/1.1 PURGE HTTP/1.1[lf][lf]#[instant_split]HTTP/ 2 HTTP/1.1 PUT HTTP/1.1[lf][lf]",
-         "ProxyIP":"172.233.25.4",
+         "ProxyIP":"",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",

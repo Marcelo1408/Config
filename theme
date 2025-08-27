@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "5",
   "Update": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/theme",
   "AppName": "NetFree",
   "ImgFundo": "https://i.ibb.co/yc1K3XDq/fundo.jpg",
@@ -13,6 +13,6 @@
   "ColorOne": "#00000000",
   "ColorTwo": "#596954",
   "ColorStarter": "#090b14",
-  "ColorDialogs": "#383849",
-  "ColorButtons": "#2d453c"
+  "ColorDialogs": "#f3f5f2",
+  "ColorButtons": "#20e809"
 }

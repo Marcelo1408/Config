@@ -1,9 +1,9 @@
 {
-  "Version": "1",
+  "Version": "2",
   "Update": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/theme",
-  "AppName": "LMNET",
-  "ImgFundo": "https://res.cloudinary.com/dylhmljto/image/upload/v1754228560/file_00000000e68061f4b020702b61ac7046_yawcbq.png",
-  "ImgLogo": "",
+  "AppName": "NetFree",
+  "ImgFundo": "https://i.ibb.co/yc1K3XDq/fundo.jpg",
+  "ImgLogo": "https://i.ibb.co/tTYJSpqB/netfree.png",
   "ImgBanner": "",
   "ImgMenu": "https://telegra.ph/file/828fa0ae4f65228764d39.png",
   "ImgLogs": "https://telegra.ph/file/ca921a93220cc2281f147.png",

@@ -1,9 +1,9 @@
 {
-  "Version":"1",
+  "Version":"2",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
-  "UpdateApk": "",
+  "UpdateApk": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "Contato":"https://wa.me/5547991332359",
   "Site":"https://www.speedtest.net",
   "Servers": [
@@ -17,7 +17,7 @@
          "ServerIP":"mlfree.shop",
          "ServerPort":"22",
          "SSLPort":"443",
-         "CheckUser": "https://checkuser.lmhost.win/3e9ff2de",
+         "CheckUser": "http://172.233.25.4:5454",
          "USER":"",
          "PASS":"",
          "Color": "#161726"

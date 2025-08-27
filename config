@@ -21,22 +21,8 @@
          "USER":"",
          "PASS":"",
          "Color": "#161726"
-      },
-      {
-         "Name":"SERVIDOR DIRECT",
-         "ColorName": "#ffffff",
-         "Description": "USE NAS CONFIGS DIRECT",
-         "ColorDescription": "#ffffff",
-         "TYPE":"premium",
-         "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
-         "ServerIP":"54.233.45.252",
-         "ServerPort":"80",
-         "SSLPort":"443",
-         "CheckUser": "https://checkuser.lmhost.win/3e9ff2de",
-         "USER":"",
-         "PASS":"",
-         "Color": "#161726"
       }
+  
   ],
 "Networks": [
         {

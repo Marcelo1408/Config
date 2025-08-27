@@ -1,5 +1,5 @@
 {
-  "Version":"1",
+  "Version":"2",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -8,7 +8,7 @@
   "Site":"https://www.speedtest.net",
   "Servers": [
        {
-         "Name":"SERVIDOR FLARE",
+         "Name":"SERVIDOR NETFREE",
          "ColorName": "#ffffff",
          "Description": "USE NAS CONFIGS FLARE",
          "ColorDescription": "#ffffff",
@@ -30,7 +30,7 @@
          "ColorName": "#ffffff",
          "Description": "SELECIONE UMA CONFIGURAÇÃO",
          "ColorDescription": "#ffffff",
-         "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754314819/lmnet_vdctiy.png",
+         "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
          "Payload":"",
          "ProxyIP":"",
          "ProxyPort":"",

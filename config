@@ -1,10 +1,10 @@
 {
-  "Version":"3",
+  "Version":"4",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
   "UpdateApk": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
-  "Contato":"https://wa.me/5547991332359",
+  "Contato":"https://wa.me/5519999797310",
   "Site":"https://www.speedtest.net",
   "Servers": [
        {

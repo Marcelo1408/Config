@@ -1,5 +1,5 @@
 {
-  "Version":"2",
+  "Version":"3",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -180,13 +180,21 @@
          "Info":"Proxy"
         },
  {
-         "Name": "TIM SALDO EXPIRADO 03",
+         "Name": "TIM SALDO EXPIRADO e VALIDO 03",
          "ColorName": "#ffffff",
          "Description": "USE SERVIDOR FLARE",
          "ColorDescription": "#ffffff",
          "FLAG":"https://i.ibb.co/n8CmQgkJ/logodatim.jpg",
-         "Payload":"HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#HTTP/ [crlf][crlf]|[crlf]",
-         "ProxyIP":"mlfree.shop",
+         "Payload":"ACL wss://mlfree.shop HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
+         "ProxyIP":"104.19.241.93#
+104.18.28.182#
+104.19.239.25#
+104.18.33.113#
+172.64.154.143#
+104.18.99.70#
+104.16.53.111#
+172.67.188.168#
+104.17.64.225",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",

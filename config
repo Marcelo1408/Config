@@ -1,5 +1,5 @@
 {
-  "Version":"4",
+  "Version":"5",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -40,13 +40,13 @@
          "Info":""
         },
         {
-         "Name": "VIVO WSS 1",
+         "Name": "VIVO SALDO VÁLIDO & EXPIRADO",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR DIRECT",
+         "Description": "SEM LOGIN NA REDE",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
-         "Payload":"MERGE google.com HTTP/1.0[crlf]Host: google.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-         "ProxyIP":"mlfree.shop",
+         "Payload":"ACL / [split]HTTP/1.1 [lf]Host: mlfree.shop[lf]Upgrade: Websocket[lf][lf]",
+         "ProxyIP":"104.26.12.205#172.67.74.152",
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",

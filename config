@@ -1,5 +1,5 @@
 {
-  "Version":"5",
+  "Version":"6",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -40,7 +40,7 @@
          "Info":""
         },
         {
-         "Name": "VIVO SALDO VÁLIDO & EXPIRADO",
+         "Name": "VIVO DDD19",
          "ColorName": "#ffffff",
          "Description": "SEM LOGIN NA REDE",
          "ColorDescription": "#ffffff",
@@ -51,7 +51,7 @@
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Direct"
+         "Info":"Proxy"
         },
         {
          "Name": "VIVO WSS 2",
@@ -65,7 +65,7 @@
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Direct"
+         "Info":"Proxy"
         },
         {
          "Name": "VIVO WSS 3",
@@ -79,7 +79,7 @@
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Direct"
+         "Info":"Proxy"
         },
         {
          "Name": "VIVO WSS 4",
@@ -93,7 +93,7 @@
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Direct"
+         "Info":"Proxy"
         },
         {
          "Name": "VIVO WSS 5",
@@ -107,7 +107,7 @@
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Direct"
+         "Info":"Proxy"
         },
         {
          "Name": "VIVO E TIM WSS 6",
@@ -121,7 +121,7 @@
          "SNI":"",
          "TlsIP":"",
          "Color": "#161726",
-         "Info":"Direct"
+         "Info":"Proxy"
         },
         {
          "Name": "VIVO FLARE 04/08",

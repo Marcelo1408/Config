@@ -1,5 +1,5 @@
 {
-  "Version":"6",
+  "Version":"7",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -36,13 +36,13 @@
          "ProxyPort":"",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":""
         },
         {
          "Name": "VIVO DDD19",
          "ColorName": "#ffffff",
-         "Description": "SEM LOGIN NA REDE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"ACL / [split]HTTP/1.1 [lf]Host: mlfree.shop[lf]Upgrade: Websocket[lf][lf]",
@@ -50,13 +50,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
-         "Name": "VIVO WSS 2",
+         "Name": "VIVO E TIM WSS 1",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR DIRECT",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"HTTP/1.1 [lf]Host: [rotate=google.com;youtube.com][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
@@ -64,13 +64,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
-         "Name": "VIVO WSS 3",
+         "Name": "VIVO E TIMWSS 2",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR DIRECT",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"HTTP/1.1 [crlf]Host:youtube.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
@@ -78,13 +78,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
-         "Name": "VIVO WSS 4",
+         "Name": "VIVO E TIM WSS 3",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR DIRECT",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP,
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"[delay_split]ACL 127.0.0.1:80[lf] HTTP/1.1 [lf]Host: [rotate=google.com;youtube.com][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
@@ -92,13 +92,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
-         "Name": "VIVO WSS 5",
+         "Name": "VIVO E TIM WSS 5",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR DIRECT",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"[delay_split]ACL / HTTP/1.1[crlf]Host: bughost.lmhost.workers.dev[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
@@ -106,13 +106,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
          "Name": "VIVO E TIM WSS 6",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR DIRECT",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754314187/vivo-tim_lvaikj.png",
          "Payload":"[split]HTTP/ 2 HTTP/1.1 CONNECT HTTP/1.1[lf][lf] [lf]#[instant_split]HTTP/ 2 HTTP/1.1 PURGE HTTP/1.1[lf][lf]#[instant_split]HTTP/ 2 HTTP/1.1 PUT HTTP/1.1[lf][lf]",
@@ -120,13 +120,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
          "Name": "VIVO FLARE 04/08",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#[rotate=ACL;GET;PATCH] / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][split][crlf]",
@@ -134,13 +134,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
          "Name": "VIVO FLARE 27/06",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://res.cloudinary.com/dylhmljto/image/upload/v1754228543/vivo_nmklrt.png",
          "Payload":"MERGE / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[ua][split][crlf][crlf]",
@@ -148,13 +148,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#ad59c2",
          "Info":"Proxy"
         },
         {
          "Name": "TIM SALDO EXPIRADO 01",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://i.ibb.co/n8CmQgkJ/logodatim.jpg",
          "Payload":"HTTP/1.1 200 OK [crlf][crlf][crlf]",
@@ -162,13 +162,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#0b1e63",
          "Info":"Proxy"
         },
  {
          "Name": "TIM SALDO EXPIRADO 02",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://i.ibb.co/n8CmQgkJ/logodatim.jpg",
          "Payload":"HTTP/1.1 200 OK [crlf][crlf][crlf]",
@@ -176,13 +176,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#0b1e63",
          "Info":"Proxy"
         },
  {
          "Name": "TIM SALDO EXPIRADO e VALIDO 03",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://i.ibb.co/n8CmQgkJ/logodatim.jpg",
          "Payload":"ACL wss://mlfree.shop HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
@@ -198,13 +198,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#0b1e63",
          "Info":"Proxy"
         },
  {
          "Name": "TIM SALDO VALIDO 01",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://i.ibb.co/n8CmQgkJ/logodatim.jpg",
          "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: jobs.deezer.com[lf][lf][instant_split][lf][lf]GET- / HTTP/1.1[lf]Host: mlfree.shop[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]#[rotate=CONNECT;GET;POST;PUT;HEAD;OPTIONS;PATCH;DELETE;PROPFIND;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;SEARCH] /cdn-cgi/trace/ HTTP/1.1[crlf]Host: ayabooks.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: mlfree.shop[crlf]Upgrade: Websocket[crlf][crlf]#GET /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=ayabooks.com.br;bancah.com.br;verisoft.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: Cloudflere aqui[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -212,13 +212,13 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#0b1e63",
          "Info":"Proxy"
         },
  {
          "Name": "TIM SALDO VALIDO 02",
          "ColorName": "#ffffff",
-         "Description": "USE SERVIDOR FLARE",
+         "Description": "USE O MODO AVIÃO PARA ACHAR O IP",
          "ColorDescription": "#ffffff",
          "FLAG":"https://i.ibb.co/n8CmQgkJ/logodatim.jpg",
          "Payload":"GET /cdn-cgi/trace HTTP/1.1[lf]Host: jobs.deezer.com[lf][lf][instant_split][lf][lf]GET- / HTTP/1.1[lf]Host: mlfree.shop[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]#[rotate=CONNECT;GET;POST;PUT;HEAD;OPTIONS;PATCH;DELETE;PROPFIND;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;SEARCH] /cdn-cgi/trace/ HTTP/1.1[crlf]Host: ayabooks.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: mlfree.shop[crlf]Upgrade: Websocket[crlf][crlf]#GET /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=ayabooks.com.br;bancah.com.br;verisoft.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: Cloudflere aqui[crlf]Upgrade: Websocket[crlf][crlf]",
@@ -226,7 +226,7 @@
          "ProxyPort":"80",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#161726",
+         "Color": "#0b1e63",
          "Info":"Proxy"
         }
  

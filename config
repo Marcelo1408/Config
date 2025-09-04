@@ -1,5 +1,5 @@
 {
-  "Version":"3",
+  "Version":"4",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -17,7 +17,7 @@
          "ServerIP":"mlfree.shop",
          "ServerPort":"22",
          "SSLPort":"443",
-         "CheckUser": "http://172.233.25.4:5454",
+         "CheckUser": "http://mlfree.shop:5454",
          "USER":"",
          "PASS":"",
          "Color": "#161726"

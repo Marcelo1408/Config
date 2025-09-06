@@ -27,7 +27,7 @@
 "Networks": [
         {
          "Name": "CONFIGURAÇÕES VIVO",
-         "ColorName": "#000000",
+         "ColorName": "#000012",
          "Description": "SELECIONE UMA CONFIGURAÇÃO",
          "ColorDescription": "#000000",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
@@ -153,7 +153,7 @@
         },
 {
          "Name": "CONFIGURAÇÕES TIM",
-         "ColorName": "#000000",
+         "ColorName": "#000012",
          "Description": "SELECIONE UMA CONFIGURAÇÃO",
          "ColorDescription": "#000000",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",

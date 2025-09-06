@@ -1,5 +1,5 @@
 {
-  "Version":"4",
+  "Version":"5",
   "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/config",
   "UdpPort":"7300",
   "Sms":"https://raw.githubusercontent.com/hwoxan/connectplus/refs/heads/main/sms",
@@ -27,7 +27,7 @@
 "Networks": [
         {
          "Name": "CONFIGURAÇÕES VIVO",
-         "ColorName": "#ffffff",
+         "ColorName": "#000000",
          "Description": "SELECIONE UMA CONFIGURAÇÃO",
          "ColorDescription": "#ffffff",
          "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
@@ -36,7 +36,7 @@
          "ProxyPort":"",
          "SNI":"",
          "TlsIP":"",
-         "Color": "#ad59c2",
+         "Color": "#ffffff",
          "Info":""
         },
         {
@@ -150,6 +150,20 @@
          "TlsIP":"",
          "Color": "#ad59c2",
          "Info":"Proxy"
+        },
+{
+         "Name": "CONFIGURAÇÕES TIM",
+         "ColorName": "#000000",
+         "Description": "SELECIONE UMA CONFIGURAÇÃO",
+         "ColorDescription": "#ffffff",
+         "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
+         "Payload":"",
+         "ProxyIP":"",
+         "ProxyPort":"",
+         "SNI":"",
+         "TlsIP":"",
+         "Color": "#ffffff",
+         "Info":""
         },
         {
          "Name": "TIM SALDO EXPIRADO 01",

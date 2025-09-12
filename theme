@@ -1,9 +1,9 @@
 {
-  "Version": "11",
+  "Version": "12",
   "Update": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/theme",
-  "AppName": "COMETA NET",
+  "AppName": "NETFREE",
   "ImgFundo": "https://i.ibb.co/prvv4f5c/galaxia-espaco-sideral-universo-imagem-de-fundo.jpg",
-  "ImgLogo": "https://i.ibb.co/7N6MFd7g/COMETA-NET.png",
+  "ImgLogo": "https://i.ibb.co/tTYJSpqB/netfree.png,
   "ImgBanner": "",
   "ImgMenu": "https://telegra.ph/file/828fa0ae4f65228764d39.png",
   "ImgLogs": "https://telegra.ph/file/ca921a93220cc2281f147.png",

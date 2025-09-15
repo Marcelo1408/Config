@@ -1,9 +1,9 @@
 {
   "Version":"1",
-  "Update":"https://pub-3bfee5c037044dbb8a2f14dba7d82954.r2.dev/config",
+  "Update":"https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/keyapp",
   "UdpPort":"7300",
   "Sms":"https://pub-3bfee5c037044dbb8a2f14dba7d82954.r2.dev/sms",
-  "UpdateApk": "https://pub-3bfee5c037044dbb8a2f14dba7d82954.r2.dev/lmnet.apk",
+  "UpdateApk": "https://raw.githubusercontent.com/Marcelo1408/Config/refs/heads/main/keyapp",
   "Contato":"https://wa.me/5547991332359",
   "Site":"https://www.speedtest.net",
   "Servers": [
